@@ -109,7 +109,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<!-- <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2910Shubham&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -119,7 +119,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=2910Shubham&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 </p>
 
-<br clear="both"/>
+<br clear="both"/> -->
 
 ---
 
