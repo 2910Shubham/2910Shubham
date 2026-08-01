@@ -7,7 +7,7 @@
 </p>
 <h1>💫 About Me: </h1>
 
-🔭🔭 I'm currently working on **Startup Ideas & Web Solutions**<br> - 👨‍💻All of my projects are available at [https://www.meetshubham.site/](https://www.dotshubham.site/) <br>- 🌱 I’m currently learning DSA <br>- 💬 Ask me about **JavaScript, Frontend Development & Hackathons**<br>⚡ Fun fact: I switch roles faster than my code compiles
+🔭🔭 I'm currently working on **Startup Ideas & Web Solutions**<br> - 👨‍💻All of my projects are available at [https://www.dotshubham.site/](https://www.dotshubham.site/) <br>- 🌱 I’m currently learning DSA <br>- 💬 Ask me about **JavaScript, Frontend Development & Hackathons**<br>⚡ Fun fact: I switch roles faster than my code compiles
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dotshubham.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-mishra-)
